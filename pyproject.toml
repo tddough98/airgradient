@@ -20,6 +20,13 @@ urls.Source = "https://github.com/tddough98/airgradient"
 urls.Home-page = "https://github.com/tddough98/airgradient"
 dependencies = [
     "anndata",
+    "pandas",
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "umap-learn",
     # for debug logging (referenced from the issue template)
     "session-info",
 ]
